@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Software Engineering student with a love for learning (and Kotlin, specifically)
+I'm a Software Engineer with a love for learning (and Kotlin, specifically)
 
 Any libraries/images/etc. can be found usually on my nexus repo -> https://repo.reeve.dev
 
